@@ -1,0 +1,8 @@
+node_modules/
+shahin.db
+shahin.db-shm
+shahin.db-wal
+*.log
+.env
+dist/
+*.log
